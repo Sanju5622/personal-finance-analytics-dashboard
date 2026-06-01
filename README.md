@@ -1,4 +1,4 @@
- Personal Finance Analytics Dashboard
+# Personal Finance Analytics Dashboard
 
 ## Objective
 
